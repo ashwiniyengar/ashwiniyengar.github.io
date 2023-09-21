@@ -15,12 +15,12 @@ author_profile: true
 ## Johns Hopkins
 
 * AS.110.109 Calculus II for Physical Sciences and Engineering (fall 2023)
-* AS.110.618 Number Theory II (spring 2023)
-* AS.110.413 Introduction to Topology (spring 2023)
-* AS.110.617 Number Theory I (fall 2022)
+* AS.110.618 [Number Theory II](/files/CFT.pdf) (spring 2023)
+* AS.110.413 [Introduction to Topology](/files/Topology.pdf) (spring 2023)
+* AS.110.617 [Number Theory I](/files/ANT.pdf) (fall 2022)
 * AS.110.106 Calculus I for Biology and Social Sciences (spring 2022)
-* AS.110.618 Number Theory II (spring 2022)
-* AS.110.617 Number Theory I (fall 2021)
+* AS.110.618 [Number Theory II](/files/CFT.pdf) (spring 2022)
+* AS.110.617 [Number Theory I](/files/ANT.pdf) (fall 2021)
 
 ## King's College London
 
