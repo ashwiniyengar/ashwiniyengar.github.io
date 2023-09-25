@@ -10,7 +10,7 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
- -->
+-->
 
 ## Johns Hopkins
 
@@ -24,5 +24,5 @@ author_profile: true
 
 ## King's College London
 
-* Representation theory of finite groups (TA, spring 2020)
-* Elementary number theory (TA, fall 2018)
+* 6CCM351A Representation theory of finite groups (TA, spring 2020)
+* 6CCM224b Elementary number theory (TA, fall 2018)
