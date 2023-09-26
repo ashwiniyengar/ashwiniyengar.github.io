@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 -->
 
-## Invited Research Talks
+## Selected Research Talks
 
 * **Algebra, Combinatorics, and Geometry Seminar**, University of Pittsburgh. Oct 2023
 
@@ -58,4 +58,4 @@ author_profile: true
 
 * **Séminaire de géométrie arithmétique et motivique**, Paris 13. Jun 2020
 
-* **Conference on *p*-adic modular forms and Galois representations**, University of Sheffield. Jul 2019
+* **Conference on $p$-adic modular forms and Galois representations**, University of Sheffield. Jul 2019
