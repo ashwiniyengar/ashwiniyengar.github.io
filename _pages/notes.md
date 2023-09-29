@@ -41,7 +41,7 @@ The following are notes from talks that I've listened to. Any errors are mine: u
 
 The following are notes from a study group on derived structures in the Langlands program from 2019, organized jointly with [Pol van Hoften](https://polvanhoften2.github.io), [Alice Pozzi](https://alicepozzimath.com), and [Carl Wang--Erickson](https://sites.pitt.edu/~caw203/)
 
-| <div style="width:20%">Date</div>       | <div style="width:20%">Galois Track</div>| <div style="width:20%">Speaker</div>|<div style="width:20%">Hecke Track</div>| <div style="width:20%">Speaker</div>|
+| Date       | Galois Track| Speaker|Hecke Track| Speaker|
 |------------|---------------------------------------------------------|---------------------|-------------------------------------------------------------------------------|---------------------|
 | January 9  | [Introduction I](/files/lntsg2019/G1.pdf)                     | James Newton        | [Introduction II](/files/lntsg2019/H1.pdf)                                          | Carl Wang-Erickson |
 | January 16 | [Deformations of representations of Galois groups](/files/lntsg2019/G2.pdf) | Misja Steinmetz | [Introduction to the cohomology of arithmetic groups, I: comparison with automorphic forms](/files/lntsg2019/H2.pdf) | Chris Williams      |
