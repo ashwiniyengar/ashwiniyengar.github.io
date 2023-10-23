@@ -55,3 +55,17 @@ The following are notes from a study group on derived structures in the Langland
 | March 13   | [The derived deformation ring and patching](/files/lntsg2019/G10.pdf) | Ashwin Iyengar | [The $p$-adic ($\ell \neq p$) realization of the conjecture](/files/lntsg2019/H10.pdf) | Ana Caraiani       |
 | March 20   | [The derived deformation ring and the derived Hecke algebra](/files/lntsg2019/G11.pdf) | Pol van Hoften | [The conjecture on weight one modular forms](/files/lntsg2019/H11.pdf) | Alice Pozzi        |
 
+## $p$-adic local Langlands for $\GL_2(\mathbb{Q}_p)$
+
+| Speaker   | Date           | Topic                                                | Notes                                                            | References                                |
+|-----------|----------------|------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------|
+|           |                | Study group plan                                    | [PDF](pal.pdf)                                                   | See PDF                                   |
+| Abi       | May 1, 2020    | Mod $p$ and integral $p$-adic representations of $\mathrm{GL}_n(\mathbb{Q}_p)$ | [Notes](abi.pdf)                                                 | [Eme1], [Her1], [New]                     |
+| Ashwin    | May 8, 2020    | Irreducible smooth admissible mod $p$ representations of $\mathrm{GL}_n(F)$ | [Notes](ashwin.pdf)                                             | [AHHV], [Bre], [GK], [Her2], [Her3]       |
+| Andy      | May 15, 2020   | Ext groups between irreducible representations       | [Typed notes](Extgroupspdf.pdf) and [written notes](Extgroupsscan.pdf) | [Eme2], [Oll], [Paš1], [Vig]              |
+| Ashvni    | May 22, 2020   | Banach $L$-representations                           | [Slides](Banach-talk.pdf) and [handwritten proofs](Banachscan.pdf) | [Paš2]                                    |
+| Pol       | May 28, 2020   | Locally finite abelian categories                    | [Video](zoom.mp4) (caution, big file)                           | [Gab]                                     |
+| Ashwin    | June 5, 2020   | Paškūnas's deformation theory                         | [Notes](def.pdf)                                                | [Paš2]                                    |
+| Sam       | June 19, 2020  | Galois representations and phi-gamma modules         | [Notes](phiGammaTalk.pdf) and [Video](https://ucl.zoom.us/rec/share/9eMpI77pyEhOaav8sHjNRK09MZXHeaa80SRMq_IOmktTnc3w6QDKqKHjb3vSb5yD) (pw: 2g@0M%8#) | [Ber] |
+| Waqar     | June 26, 2020  | Colmez's Montréal Functor                           |                                                                  | [Col]                                     |
+| Ashwin    | July 31, 2020  | Deformation Theory for Supersingular Representations | [Notes](super.pdf) and [video](super.mp4)                       | [Kis], [Paš1], [Paš2]                     |
