@@ -88,3 +88,12 @@ The following are notes from a study group on derived structures in the Langland
 - [Paš1] Paškūnas, [Extensions for supersingular representations of $\mathrm{GL}_2(\mathbb{Q}_p)$](https://arxiv.org/pdf/0710.1053.pdf)
 - [Paš2] Paškūnas, [The image of Colmez's Montréal functor](https://arxiv.org/pdf/1005.2008.pdf)
 - [Vig] Vignéras, [Representations modulo $p$ of the p-adic group $\mathrm{GL}(2, F)$](https://webusers.imj-prg.fr/~marie-france.vigneras/cmat0007.pdf)
+
+## Notes from the Padova Summer School
+
+In 2019 I attended the [Padova school](https://events.math.unipd.it/indamlanglandsschool/) on Serre's conjecture and the $p$-adic Langlands program. Here are some notes from the courses taught in the conference.
+
+- Eugen Hellmann, [p-adic Hodge theory and deformations of Galois representations](/files/padova/EH.pdf)
+- Florian Herzig, [p-modular and locally analytic representation theory of $p$-adic groups](/files/padova/FH.pdf)
+- Benjamin Schraen, [p-adic automorphic forms](/files/padova/BS.pdf)
+- Sug Woo Shin, [The local Langlands correspondence and local-global compatibility for $\mathrm{GL}_2$](/files/padova/SWS.pdf)
