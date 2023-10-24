@@ -64,8 +64,27 @@ The following are notes from a study group on derived structures in the Langland
 | Ashwin    | May 8, 2020    | Irreducible smooth admissible mod $p$ representations of $\mathrm{GL}_n(F)$ | [Notes](/files/padicLL/ashwin.pdf)                                             | [AHHV], [Bre], [GK], [Her2], [Her3]       |
 | Andy      | May 15, 2020   | Ext groups between irreducible representations       | [Typed notes](/files/padicLL/Extgroupspdf.pdf) and [written notes](/files/padicLL/Extgroupsscan.pdf) | [Eme2], [Oll], [Paš1], [Vig]              |
 | Ashvni    | May 22, 2020   | Banach $L$-representations                           | [Slides](/files/padicLL/Banach-talk.pdf) and [handwritten proofs](/files/padicLL/Banachscan.pdf) | [Paš2]                                    |
-| Pol       | May 28, 2020   | Locally finite abelian categories                    | [Video](zoom.mp4) (caution, big file)                           | [Gab]                                     |
+| Pol       | May 28, 2020   | Locally finite abelian categories                    |                            | [Gab]                                     |
 | Ashwin    | June 5, 2020   | Paškūnas's deformation theory                         | [Notes](/files/padicLL/def.pdf)                                                | [Paš2]                                    |
 | Sam       | June 19, 2020  | Galois representations and phi-gamma modules         | [Notes](/files/padicLL/phiGammaTalk.pdf) and [Video](https://ucl.zoom.us/rec/share/9eMpI77pyEhOaav8sHjNRK09MZXHeaa80SRMq_IOmktTnc3w6QDKqKHjb3vSb5yD) (pw: 2g@0M%8#) | [Ber] |
 | Waqar     | June 26, 2020  | Colmez's Montréal Functor                           |                                                                  | [Col]                                     |
-| Ashwin    | July 31, 2020  | Deformation Theory for Supersingular Representations | [Notes](/files/padicLL/super.pdf) and [video](super.mp4)                       | [Kis], [Paš1], [Paš2]                     |
+| Ashwin    | July 31, 2020  | Deformation Theory for Supersingular Representations | [Notes](/files/padicLL/super.pdf)                       | [Kis], [Paš1], [Paš2]                     |
+
+# References
+- [AHHV] Abe, Henniart, Herzig, Vignéras, [A classification of irreducible admissible mod $p$ representations of $p$-adic reductive groups](ahhv.pdf)
+- [Ber] Berger, [Galois Representations and $(\varphi, \Gamma)$-modules](http://perso.ens-lyon.fr/laurent.berger/autrestextes/CoursIHP2010.pdf) (L14-L18)
+- [Bre] Breuil, [Sur quelques représentations modulaires et $p$-adiques de $\mathrm{GL}_2(\mathbb{Q}_p)$: I](breuil.pdf)
+- [Col] Colmez, [Représentations de $\mathrm{GL}_2(\mathbb{Q}_p$ et $(\varphi, \Gamma)$-modules](https://webusers.imj-prg.fr/~pierre.colmez/kirilov.pdf)
+- [Eme1] Emerton, [Ordinary Parts of Admissible Representations of $p$-adic Reductive Groups I: Definition and First Properties](http://www.math.uchicago.edu/~emerton/pdffiles/ord-one.pdf)
+- [Eme2] Emerton, [Ordinary Parts of Admissible Representations of $p$-adic Reductive Groups II: Derived functors](http://www.math.uchicago.edu/~emerton/pdffiles/ord-two.pdf)
+- [Gab] Gabriel, [Des catégories abéliennes](https://www.maths.ed.ac.uk/~v1ranick/papers/gabriel.pdf)
+- [GK] Grosse-Klönne, [On special representations of $p$-adic reductive groups](gk.pdf)
+- [Her1] Herzig, [$p$-modular and locally analytic representation theory of $p$-adic groups](FH.pdf)
+- [Her2] Herzig, [The classification of irreducible admissible mod $p$ representations of a $p$-adic $\mathrm{GL}_n$](https://www.math.toronto.edu/~herzig/parab-ind.pdf)
+- [Her3] Herzig, [A Satake isomorphism in characteristic $p$](https://www.math.toronto.edu/~herzig/satake_mod_p_corrected_arrows.pdf)
+- [Kis] Kisin, [Deformations of $G_{\mathbb{Q}_p}$ and $\mathrm{GL}_2(\mathbb{Q}_p)$ representations](https://dash.harvard.edu/bitstream/handle/1/4794887/12715803.pdf?sequence=1&isAllowed=y)
+- [New] Newton, [LTCC Course: Representations of $p$-adic groups](https://nms.kcl.ac.uk/james.newton/padicreps.html)
+- [Oll] Ollivier, [Le foncteur des invariants sous l’action du pro-$p$-Iwahori de $\mathrm{GL}_2(F)$](https://www.math.ubc.ca/~ollivier/Invariants-R.Ollivier.pdf)
+- [Paš1] Paškūnas, [Extensions for supersingular representations of $\mathrm{GL}_2(\mathbb{Q}_p)$](https://arxiv.org/pdf/0710.1053.pdf)
+- [Paš2] Paškūnas, [The image of Colmez's Montréal functor](https://arxiv.org/pdf/1005.2008.pdf)
+- [Vig] Vignéras, [Representations modulo $p$ of the p-adic group $\mathrm{GL}(2, F)$](https://webusers.imj-prg.fr/~marie-france.vigneras/cmat0007.pdf)
