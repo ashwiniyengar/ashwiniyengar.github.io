@@ -71,15 +71,15 @@ The following are notes from a study group on derived structures in the Langland
 | Ashwin    | July 31, 2020  | Deformation Theory for Supersingular Representations | [Notes](/files/padicLL/super.pdf)                       | [Kis], [Paš1], [Paš2]                     |
 
 ### References
-- [AHHV] Abe, Henniart, Herzig, Vignéras, [A classification of irreducible admissible mod $p$ representations of $p$-adic reductive groups](ahhv.pdf)
+- [AHHV] Abe, Henniart, Herzig, Vignéras, [A classification of irreducible admissible mod $p$ representations of $p$-adic reductive groups](/files/padicLL/ahhv.pdf)
 - [Ber] Berger, [Galois Representations and $(\varphi, \Gamma)$-modules](http://perso.ens-lyon.fr/laurent.berger/autrestextes/CoursIHP2010.pdf) (L14-L18)
-- [Bre] Breuil, [Sur quelques représentations modulaires et $p$-adiques de $\mathrm{GL}_2(\mathbb{Q}_p)$: I](breuil.pdf)
-- [Col] Colmez, [Représentations de $\mathrm{GL}_2(\mathbb{Q}_p$ et $(\varphi, \Gamma)$-modules](https://webusers.imj-prg.fr/~pierre.colmez/kirilov.pdf)
+- [Bre] Breuil, [Sur quelques représentations modulaires et $p$-adiques de $\mathrm{GL}_2(\mathbb{Q}_p)$: I](/files/padicLL/breuil.pdf)
+- [Col] Colmez, [Représentations de $\mathrm{GL}_2(\mathbb{Q}_p)$ et $(\varphi, \Gamma)$-modules](https://webusers.imj-prg.fr/~pierre.colmez/kirilov.pdf)
 - [Eme1] Emerton, [Ordinary Parts of Admissible Representations of $p$-adic Reductive Groups I: Definition and First Properties](http://www.math.uchicago.edu/~emerton/pdffiles/ord-one.pdf)
 - [Eme2] Emerton, [Ordinary Parts of Admissible Representations of $p$-adic Reductive Groups II: Derived functors](http://www.math.uchicago.edu/~emerton/pdffiles/ord-two.pdf)
 - [Gab] Gabriel, [Des catégories abéliennes](https://www.maths.ed.ac.uk/~v1ranick/papers/gabriel.pdf)
 - [GK] Grosse-Klönne, [On special representations of $p$-adic reductive groups](gk.pdf)
-- [Her1] Herzig, [$p$-modular and locally analytic representation theory of $p$-adic groups](FH.pdf)
+- [Her1] Herzig, [$p$-modular and locally analytic representation theory of $p$-adic groups](/files/padova/FH.pdf)
 - [Her2] Herzig, [The classification of irreducible admissible mod $p$ representations of a $p$-adic $\mathrm{GL}_n$](https://www.math.toronto.edu/~herzig/parab-ind.pdf)
 - [Her3] Herzig, [A Satake isomorphism in characteristic $p$](https://www.math.toronto.edu/~herzig/satake_mod_p_corrected_arrows.pdf)
 - [Kis] Kisin, [Deformations of $G_{\mathbb{Q}_p}$ and $\mathrm{GL}_2(\mathbb{Q}_p)$ representations](https://dash.harvard.edu/bitstream/handle/1/4794887/12715803.pdf?sequence=1&isAllowed=y)
