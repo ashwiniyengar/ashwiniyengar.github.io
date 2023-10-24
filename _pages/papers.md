@@ -11,11 +11,11 @@ author_profile: true
  -->
 {% include base_path %}
 
-* J. Bakeberg, M. Gerbelli-Gauthier, H. Goodson, A. Iyengar, G. Moss, R. Zhang, **Mod ℓ gamma factors and a converse theorem for finite general linear groups**
-    * Preprint. [arXiv:2307.07593](https://arxiv.org/abs/2307.07593)
-* G. Böckle, A. Iyengar, V. Paškūnas, [Zariski density of crystalline points](/files/zariski.pdf)
-    * Published in PNAS (2023), vol. 120, no. 3. [arXiv:2206.06944](https://arxiv.org/abs/2206.06944)
-* G. Böckle, A. Iyengar, V. Paškūnas, **On local Galois deformation rings**
-    * Accepted to Forum of Mathematics, Pi, pending publication (2023). [arXiv:2110.01638](https://arxiv.org/abs/2110.01638)
-* A. Iyengar, [Deformation Theory of the Trivial mod p Galois Representation for GL<sub>n</sub>](/files/trivial.pdf)
-    * Published in International Mathematics Research Notices (2020), no. 22, pp. 8896–8935. [arXiv:1904.05996](https://arxiv.org/abs/1904.05996)
+* **Mod ℓ gamma factors and a converse theorem for finite general linear groups**, *J. Bakeberg, M. Gerbelli-Gauthier, H. Goodson, A. Iyengar, G. Moss, R. Zhang*.
+    * Preprint. [arXiv link](https://arxiv.org/abs/2307.07593)
+* **Zariski density of crystalline points**, *G. Böckle, A. Iyengar, V. Paškūnas*.
+    * Published in PNAS (2023), vol. 120, no. 3. [arXiv link](https://arxiv.org/abs/2206.06944), [journal link](https://doi.org/10.1073/pnas.2221042120)
+* **On local Galois deformation rings**, *G. Böckle, A. Iyengar, V. Paškūnas*.
+    * Accepted to Forum of Mathematics, Pi, pending publication (2023). [arXiv link](https://arxiv.org/abs/2110.01638)
+* **Deformation Theory of the Trivial mod p Galois Representation for GL<sub>n</sub>**, *A. Iyengar*.
+    * Published in International Mathematics Research Notices (2020), no. 22, pp. 8896–8935. [arXiv link](https://arxiv.org/abs/1904.05996), [journal link](https://doi.org/10.1093/imrn/rnaa011)
