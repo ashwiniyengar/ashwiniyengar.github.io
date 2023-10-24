@@ -28,3 +28,14 @@ author_profile: true
 
 * 6CCM351A Representation theory of finite groups (TA, Spring 2020)
 * 6CCM224b Elementary number theory (TA, Fall 2018)
+
+## London Maths Outreach
+
+In Spring 2020, I co-taught a [London Maths Outreach](https://www.londonmaths.org/) course entitled "Mathematical Aspects of Computer Science" with [Kristina Kubiliūtė](https://uk.linkedin.com/in/kristina-kubili%C5%ABt%C4%97-86a94697). The course was basically an introduction to circuits and specifically logic gates with an eye towards computation.
+
+Due to the COVID-19 pandemic, the course was released online weekly in a series of YouTube videos on the London Maths Outreach channel. [Here](https://www.youtube.com/playlist?list=PLzmwKdSpxg2CebgArvieD6W8gAca8b1Bd) is a link to the course: a sample video is included below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ke-RXyyuT0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Arushi watched the videos and won a [STEM home challenge](https://www.bmt.org/news/2020/announcing-winner-stem-home-challenge/)!
+
