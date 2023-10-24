@@ -18,4 +18,4 @@ author_profile: true
 * **On local Galois deformation rings**, *G. Böckle, A. Iyengar, V. Paškūnas*.
     * To appear in Forum of Mathematics, Pi (accepted Aug 2023). [arXiv link](https://arxiv.org/abs/2110.01638)
 * **Deformation Theory of the Trivial mod p Galois Representation for GL<sub>n</sub>**, *A. Iyengar*.
-    * Published in International Mathematics Research Notices (2020), no. 22, pp. 8896–8935. [arXiv link](https://arxiv.org/abs/1904.05996), [journal link](https://doi.org/10.1093/imrn/rnaa011)
+    * Published in IMRN (2020), no. 22, pp. 8896–8935. [arXiv link](https://arxiv.org/abs/1904.05996), [journal link](https://doi.org/10.1093/imrn/rnaa011)
