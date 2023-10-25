@@ -19,3 +19,8 @@ author_profile: true
     * To appear in Forum of Mathematics, Pi (accepted Aug 2023). [arXiv link](https://arxiv.org/abs/2110.01638)
 * **Deformation Theory of the Trivial mod p Galois Representation for GL<sub>n</sub>**, *A. Iyengar*.
     * Published in IMRN (2020), no. 22, pp. 8896–8935. [arXiv link](https://arxiv.org/abs/1904.05996), [journal link](https://doi.org/10.1093/imrn/rnaa011)
+
+### Older
+
+* **Graphical display of search trees for transparent robot programming**, *J. Pockels and D. Touretzky*.
+    * Published in Proceedings of the 25th International Florida Artificial Intelligence Research Society Conference (FLAIRS-25), Marco Island, FL. 2012. [journal link](https://cdn.aaai.org/ocs/4477/4477-21590-1-PB.pdf)
