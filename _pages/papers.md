@@ -22,7 +22,7 @@ author_profile: true
 
 ### Older
 
-* **Graphical display of search trees for transparent robot programming**, *J. Pockels and D. Touretzky*.
+* **Graphical display of search trees for transparent robot programming**, *J. Pockels, A. Iyengar, and D. Touretzky*.
     * Published in Proceedings of the 25th International Florida Artificial Intelligence Research Society Conference (FLAIRS-25), Marco Island, FL. 2012. [journal link](https://cdn.aaai.org/ocs/4477/4477-21590-1-PB.pdf)
 
 * **The classical and arithmetic standard conjectures**, [linked here](/files/memoire.pdf)
