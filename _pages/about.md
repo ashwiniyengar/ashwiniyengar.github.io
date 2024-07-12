@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ashwin and I am a J. J. Sylvester Assistant Professor (3 year postdoc) in the Johns Hopkins University mathematics department, working on number theory and the Langlands program. I am currently applying for jobs for Fall 2024.
+My name is Ashwin and I am the 2024-2025 [American Mathematical Society Congressional Fellow](https://www.ams.org/government/government/ams-congressional-fellowship).
 
-Previously, I was a Ph.D student at [King's College London](https://www.kcl.ac.uk/mathematics) and the [London School of Geometry and Number Theory](http://www.lsgnt-cdt.ac.uk) supervised by [James Newton](https://people.maths.ox.ac.uk/newton) and [Toby Gee](https://www.ma.imperial.ac.uk/~tsg/), a master's student at [Paris Nord](https://www.math.univ-paris13.fr/laga/index.php/fr/laboratoire), and before that I was an undergraduate at [UC Berkeley](https://math.berkeley.edu).
+Previously, I was a J.J. Sylvester Assistant Professor (3 year postdoc) in the [Johns Hopkins University mathematics department](https://mathematics.jhu.edu/). Before that I was a Ph.D student at [King's College London](https://www.kcl.ac.uk/mathematics) and the [London School of Geometry and Number Theory](http://www.lsgnt-cdt.ac.uk) supervised by [James Newton](https://people.maths.ox.ac.uk/newton) and [Toby Gee](https://www.ma.imperial.ac.uk/~tsg/), a master's student at [Paris Nord](https://www.math.univ-paris13.fr/laga/index.php/fr/laboratoire), and an undergraduate at [UC Berkeley](https://math.berkeley.edu).
+
+I am also a volunteer scientist at the [Baltimore Underground Science Space (BUGSS)](http://bugssonline.org), where I primarily work for the [Open Insulin Foundation](https://openinsulin.org). I spend my time in the lab trying to make insulin, and thinking about federal regulations around pharmaceutical drug pricing. Insulin is an essential prescription medication for diabetics globally, but is largely unaffordable in the United States. The Open Insulin Foundation aims to make open-source recipes for insulin in an attempt to counter pharmaceutical monopolies.
 
 I strongly believe in [Federico Ardila's](https://fardila.com/) axioms:
 
