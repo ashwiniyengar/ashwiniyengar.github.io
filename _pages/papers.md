@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 * **Geometric Casselman-Shalika in mixed characteristic**, *A. Iyengar, M. Lin, and K. Zou*
-    * Preprint. [arXiv link](https://arxiv.org/abs/2408.07953)
+    * Submitted. [arXiv link](https://arxiv.org/abs/2408.07953)
 * **Mod ℓ gamma factors and a converse theorem for finite general linear groups**, *J. Bakeberg, M. Gerbelli-Gauthier, H. Goodson, A. Iyengar, G. Moss, R. Zhang*.
     * Submitted. [arXiv link](https://arxiv.org/abs/2307.07593)
 * **Zariski density of crystalline points**, *G. Böckle, A. Iyengar, V. Paškūnas*.
