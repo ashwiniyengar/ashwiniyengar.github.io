@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 * **Math for a better future** *A. Iyengar*
-    * To appear in Notices of the American Mathematical Society.
+    * To appear in Notices of the American Mathematical Society (January 2026).
 * **Geometric Casselman-Shalika in mixed characteristic**, *A. Iyengar, M. Lin, and K. Zou*
     * Submitted. [arXiv link](https://arxiv.org/abs/2408.07953)
 * **Mod ℓ gamma factors and a converse theorem for finite general linear groups**, *J. Bakeberg, M. Gerbelli-Gauthier, H. Goodson, A. Iyengar, G. Moss, R. Zhang*
